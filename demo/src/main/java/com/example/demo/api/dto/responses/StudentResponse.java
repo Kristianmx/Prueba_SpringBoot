@@ -16,4 +16,5 @@ public class StudentResponse {
     private String name;
     private String email;
     private LocalDateTime createdAt;
+    private ClassResponse classe;
 }

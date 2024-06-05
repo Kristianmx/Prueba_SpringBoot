@@ -20,6 +20,5 @@ public class MultimediaRequest {
 
     @NotNull(message = "El tipo de multimedia es un campo obligatorio")
     private typeMultimedia type;
-    @NotNull(message = "La lesión de la multimedia es requerido")
-    private Long lesson_id;
+
 }
